@@ -9,7 +9,7 @@ Completed:
 ✔ Data Cleaning
 ✔ Exploratory Data Analysis
 ✔ Business Visualizations
-
+sql dataset imported
 Upcoming
 🔲 MySQL Integration
 🔲 SQL Business Analysis
