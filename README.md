@@ -10,7 +10,7 @@ Completed:
 ✔ Exploratory Data Analysis
 ✔ Business Visualizations
 
-Upcoming:
+Upcoming
 🔲 MySQL Integration
 🔲 SQL Business Analysis
 🔲 Power BI Dashboard
