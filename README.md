@@ -4,13 +4,13 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes pharmaceutical sales transactions from distributors across **Germany** and **Poland** between **2017–2020**. The data is cleaned, stored in a relational database, transformed, modeled, and visualized to uncover meaningful business insights for decision-making.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Technology |
 |-----------|------------|
@@ -24,7 +24,7 @@ This project analyzes pharmaceutical sales transactions from distributors across
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 ```text
 CSV Dataset
@@ -54,7 +54,7 @@ Power BI Dashboard
 
 ---
 
-## 📋 Project Pipeline
+## Project Pipeline
 
 | Stage | Work Done |
 |--------|-----------|
@@ -68,7 +68,7 @@ Power BI Dashboard
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - ✔ Exploratory Data Analysis
 - ✔ Removed duplicate records
@@ -85,7 +85,7 @@ Power BI Dashboard
 
 ---
 
-# 📊 Dashboard Pages
+# Dashboard Pages
 
 ### Executive Summary
 
@@ -111,7 +111,7 @@ Power BI Dashboard
 
 ---
 
-## 📈 Business Insights
+## Business Insights
 
 - Identified top-performing pharmaceutical products.
 - Analysed monthly and yearly sales trends.
@@ -123,7 +123,7 @@ Power BI Dashboard
 ---
 
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Sales Forecasting using Machine Learning
 - Demand Prediction
@@ -134,13 +134,13 @@ Power BI Dashboard
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Anushka Gupta**
 
 ## Dataset
 
-The dataset used in this project can be downloaded **[here]([https://www.kaggle.com/datasets/your-dataset-link](https://drive.google.com/file/d/1npKF_C2tG5psY-at4wvpEgh6T-7KHxEZ/view))**.
+[![Download Dataset](https://img.shields.io/badge/Download-Dataset-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1npKF_C2tG5psY-at4wvpEgh6T-7KHxEZ/view)
 
 
 
