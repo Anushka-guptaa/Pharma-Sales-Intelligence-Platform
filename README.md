@@ -106,7 +106,7 @@ Power BI Dashboard
 ###  Distributor & Customer Analysis
 
 <p align="center">
-<img width="1146" height="900" alt="image" src="https://github.com/user-attachments/assets/c279fee0-d8a7-4811-8a76-1f780b71a45c" />
+<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/c279fee0-d8a7-4811-8a76-1f780b71a45c" />
 </p>
 
 ---
@@ -137,5 +137,3 @@ Power BI Dashboard
 ## 👩‍💻 Author
 
 **Anushka Gupta**
-
-If you found this project helpful, consider giving it a ⭐ on GitHub.
