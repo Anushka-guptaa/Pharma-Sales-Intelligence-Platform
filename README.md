@@ -72,17 +72,16 @@ Power BI Dashboard
 
 - ✔ Exploratory Data Analysis
 - ✔ Removed duplicate records
--✔ Validated Sales calculations
--✔ Investigated negative quantities
--✔ Created Month column
--✔ Imported cleaned data into MySQL
--✔ Built SQL database
-
--✔ Connected Power BI to MySQL
--✔ Used Power Query for transformations
--✔ Worked with a Star Schema model
--✔ Created DAX measures
--✔ Built an interactive dashboard
+- ✔ Validated Sales calculations
+- ✔ Investigated negative quantities
+- ✔ Created Month column
+- ✔ Imported cleaned data into MySQL
+- ✔ Built SQL database
+- ✔ Connected Power BI to MySQL
+- ✔ Used Power Query for transformations
+- ✔ Worked with a Star Schema model
+- ✔ Created DAX measures
+- ✔ Built an interactive dashboard
 
 ---
 
