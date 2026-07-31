@@ -149,13 +149,19 @@ Power BI Dashboard
 
 ## ✨ Key Features
 
-- ✔️ Data Cleaning & Validation
-- ✔️ Exploratory Data Analysis (EDA)
-- ✔️ SQL-Based Data Analysis
-- ✔️ Power Query Transformations
-- ✔️ Star Schema Data Modeling
-- ✔️ KPI Development using DAX
-- ✔️ Interactive Power BI Dashboard
+- ✔ Exploratory Data Analysis
+- ✔ Removed duplicate records
+-✔ Validated Sales calculations
+-✔ Investigated negative quantities
+-✔ Created Month column
+-✔ Imported cleaned data into MySQL
+-✔ Built SQL database
+
+-✔ Connected Power BI to MySQL
+-✔ Used Power Query for transformations
+-✔ Worked with a Star Schema model
+-✔ Created DAX measures
+-✔ Built an interactive dashboard
 
 ---
 
@@ -164,31 +170,23 @@ Power BI Dashboard
 ### Executive Summary
 
 <p align="center">
-<img src="images/executive_summary.png" width="900">
+<img width="900" height="652" alt="image" src="https://github.com/user-attachments/assets/0c9eba40-ce01-41af-9092-96c27f132257" />
 </p>
 
 ---
 
-### Sales Performance
+### Sales Team Performance
 
 <p align="center">
-<img src="images/sales_performance.png" width="900">
+<img width="900" height="648" alt="image" src="https://github.com/user-attachments/assets/6addbe10-465f-4a0f-9900-d1da7454ea20" />
 </p>
 
 ---
 
-### Product Analysis
+###  Distributor & Customer Analysis
 
 <p align="center">
-<img src="images/product_analysis.png" width="900">
-</p>
-
----
-
-### Distributor Analysis
-
-<p align="center">
-<img src="images/distributor_analysis.png" width="900">
+<img width="1146" height="900" alt="image" src="https://github.com/user-attachments/assets/c279fee0-d8a7-4811-8a76-1f780b71a45c" />
 </p>
 
 ---
@@ -196,7 +194,7 @@ Power BI Dashboard
 ## 📈 Business Insights
 
 - Identified top-performing pharmaceutical products.
-- Analyzed monthly and yearly sales trends.
+- Analysed monthly and yearly sales trends.
 - Compared distributor performance across regions.
 - Evaluated product category contribution to total revenue.
 - Monitored KPIs including Total Sales, Orders, Quantity Sold, and Profitability.
@@ -204,35 +202,6 @@ Power BI Dashboard
 
 ---
 
-## 📂 Repository Structure
-
-```text
-Pharmaceutical-Sales-Analytics
-│
-├── Dataset/
-│
-├── Python/
-│   ├── Data Cleaning.ipynb
-│   └── EDA.ipynb
-│
-├── SQL/
-│   ├── Database.sql
-│   └── Analysis.sql
-│
-├── Power BI/
-│   └── Pharmaceutical Sales Dashboard.pbix
-│
-├── Images/
-│   ├── executive_summary.png
-│   ├── sales_performance.png
-│   ├── product_analysis.png
-│   └── distributor_analysis.png
-│
-├── README.md
-└── LICENSE
-```
-
----
 
 ## 🚀 Future Enhancements
 
