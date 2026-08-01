@@ -1,37 +1,35 @@
-# Pharmaceutical Sales Analytics
+# Pharmaceutical Sales Decision Support
 
-> **An end-to-end Business Intelligence project that leverages Python, MySQL, SQL, and Power BI to transform raw pharmaceutical sales data into interactive dashboards and actionable business insights.**
+> End-to-end pharmaceutical sales analytics project combining Python, MySQL, SQL, Power BI, and Streamlit to transform raw sales data into interactive dashboards and AI-assisted business insights.
 
 ---
 
 ## Project Overview
 
-This project analyzes pharmaceutical sales transactions from distributors across **Germany** and **Poland** between **2017–2020**. The data is cleaned, stored in a relational database, transformed, modeled, and visualized to uncover meaningful business insights for decision-making.
+This project analyzes pharmaceutical sales transactions across Germany and Poland (2017–2020). The workflow covers data cleaning, SQL analysis, business intelligence reporting, and an interactive Streamlit application that generates executive summaries using an LLM.
 
 ---
 
 ## Tech Stack
 
-| Category | Technology |
-|-----------|------------|
-| Programming | Python, Pandas |
-| Database | MySQL |
-| Query Language | SQL |
-| Data Transformation | Power Query |
-| Data Modeling | Star Schema |
-| Analytics | DAX |
-| Visualization | Power BI |
+- Python
+- Pandas
+- MySQL
+- SQL
+- Power BI
+- Power Query
+- DAX
+- Streamlit
+- Groq API (Llama 3)
 
 ---
-
 ## Project Workflow
 
 ```text
 CSV Dataset
       │
       ▼
-Python
-(Data Cleaning & EDA)
+Python (Cleaning & EDA)
       │
       ▼
 MySQL Database
@@ -40,31 +38,14 @@ MySQL Database
 SQL Analysis
       │
       ▼
-Power Query (ETL)
-      │
-      ▼
-Star Schema Data Model
-      │
-      ▼
-DAX Measures
-      │
-      ▼
 Power BI Dashboard
+      │
+      ▼
+Streamlit Web Application
+      │
+      ▼
+AI Executive Summary
 ```
-
----
-
-## Project Pipeline
-
-| Stage | Work Done |
-|--------|-----------|
-| **Python** | Cleaned, validated, and explored raw sales data using Pandas |
-| **MySQL** | Stored the processed dataset in a relational database |
-| **SQL** | Queried, filtered, joined, and analyzed sales data |
-| **Power Query** | Performed ETL operations and prepared data for reporting |
-| **Data Modeling** | Designed a Star Schema with fact and dimension tables |
-| **DAX** | Created KPIs, measures, and calculated columns |
-| **Power BI** | Built an interactive dashboard for business analysis |
 
 ---
 
@@ -82,6 +63,8 @@ Power BI Dashboard
 - ✔ Worked with a Star Schema model
 - ✔ Created DAX measures
 - ✔ Built an interactive dashboard
+- ✔ Streamlit web application for uploading sales datasets
+- ✔ AI-generated executive summaries using Groq (Llama 3)
 
 ---
 
@@ -110,27 +93,27 @@ Power BI Dashboard
 </p>
 
 ---
+### Streamlit Application
 
-## Business Insights
+<p align="center">
+<img width="900" height="785" alt="image" src="https://github.com/user-attachments/assets/888aed2e-8166-408c-8d3f-78d055a470ae" />
 
-- Identified top-performing pharmaceutical products.
-- Analysed monthly and yearly sales trends.
-- Compared distributor performance across regions.
-- Evaluated product category contribution to total revenue.
-- Monitored KPIs including Total Sales, Orders, Quantity Sold, and Profitability.
-- Enabled interactive filtering for faster business decision-making.
-
+<img width="900" height="802" alt="image" src="https://github.com/user-attachments/assets/16fe3802-a203-4325-9d2c-becdaf2cbbe0" />
+</p>
 ---
 
 
-## Future Enhancements
+## Business Insights
 
-- Sales Forecasting using Machine Learning
-- Demand Prediction
-- Customer Segmentation
-- Automated Dashboard Refresh
-- Inventory Optimization
-- Intelligent Decision Support
+- Identified top-performing pharmaceutical products and revenue-driving product categories.
+- Analysed monthly and yearly sales trends across Germany and Poland.
+- Compared distributor and sales team performance across regions.
+- Evaluated product category contribution to total sales and revenue.
+- Monitored key business KPIs including Total Sales, Orders, Quantity Sold, and Average Sales.
+- Enabled interactive filtering and exploration through Power BI dashboards.
+- Developed a Streamlit application to automate KPI reporting from uploaded sales datasets.
+- Integrated an AI-powered executive summary generator to transform analytical results into concise business reports and actionable recommendations.
+
 
 ---
 
